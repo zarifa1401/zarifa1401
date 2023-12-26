@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Zarifa! 👋
 
-<!--
-**zarifa1401/zarifa1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate front-end web developer with expertise in JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS. I enjoy creating engaging and responsive user interfaces to bring web projects to life.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+
+## 🌱 About Me
+
+- 💼 Currently working on: Exciting web development projects
+- 🌐 Visit my portfolio: [Your Portfolio Link]
+- 📫 How to reach me: zarifarahmani99@gmail.com
+- 😄 Pronouns: She/Her
+
+
+## 📈 GitHub Stats
+
+(https://github.com/zarifa1401)
+
+## 🤝 Let's Connect!
+
+Connect with me on:
+
+- LinkedIn: https://www.linkedin.com/in/zarifa-rahmani-543991258
+
+
+Feel free to explore my repositories and don't hesitate to reach out! ✨
+
