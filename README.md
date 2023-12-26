@@ -13,7 +13,7 @@ I'm a passionate front-end web developer with expertise in JavaScript, HTML, CSS
 ## 🌱 About Me
 
 - 💼 Currently working on: Exciting web development projects
-- 🌐 Visit my portfolio: [Your Portfolio Link]
+- 🌐 Visit my portfolio: 
 - 📫 How to reach me: zarifarahmani99@gmail.com
 - 😄 Pronouns: She/Her
 
