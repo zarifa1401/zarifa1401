@@ -25,34 +25,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🏦 ATM System (C++)
-- Login system with password  
-- Deposit & Withdrawal with limits  
-- Transaction history  
-
-🔗 https://github.com/zarifa1401/atm-system
-
----
-
-### 🌍 Travel Website
-- WordPress customization  
-- Responsive layout  
-- Clean UI  
-
-🔗 https://github.com/zarifa1401/travel-site
-
----
-
-### 🛒 Product Store App (React)
-- Built with Vite  
-- Dynamic UI  
-- Component-based  
-
-🔗 https://github.com/zarifa1401/product-store
 
 ---
 
@@ -85,7 +57,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>github.com/zarifa1401</a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>https://github.com/zarifa1401</a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>https://www.linkedin.com/in/zarifa-rahmani/</a>
 </p>
 
