@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zarifa1401&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 - Deposit & Withdrawal with limits  
 - Transaction history  
 
-🔗 https://github.com/YOUR_USERNAME/atm-system
+🔗 https://github.com/zarifa1401/atm-system
 
 ---
 
@@ -43,7 +43,7 @@
 - Responsive layout  
 - Clean UI  
 
-🔗 https://github.com/YOUR_USERNAME/travel-site
+🔗 https://github.com/zarifa1401/travel-site
 
 ---
 
@@ -52,7 +52,7 @@
 - Dynamic UI  
 - Component-based  
 
-🔗 https://github.com/YOUR_USERNAME/product-store
+🔗 https://github.com/zarifa1401/product-store
 
 ---
 
@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=zarifa1401&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarifa1401&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zarifa1401/zarifa1401/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -85,8 +85,8 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>github.com/zarifa1401</a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>https://www.linkedin.com/in/zarifa-rahmani/</a>
 </p>
 
 ---
