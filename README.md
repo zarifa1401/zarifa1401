@@ -56,9 +56,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>https://zarifa1401.github.io/portfolio/</a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>https://github.com/zarifa1401</a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>https://www.linkedin.com/in/zarifa-rahmani/</a>
+  <a href="https://zarifa1401.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/zarifa1401"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/zarifa-rahmani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
