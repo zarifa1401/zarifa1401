@@ -34,16 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zarifa1401&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=zarifa1401&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarifa1401
-&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
